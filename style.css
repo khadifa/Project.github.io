@@ -1,0 +1,155 @@
+.body1{
+    background-color: #f2f2f2;
+    background-image: url('pr1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bdy{
+    background-color: rgb(122, 117, 117);
+      
+}
+.login-box1{
+    background-color: rgb(142, 167, 175);
+    width: 70%;
+    /* background-color:white; */
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    height: 400px;
+    
+}
+ .login-box{
+    width: 300px;
+    background-color:white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 20px black;
+    height: 400px;
+} 
+.login-box1 form label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.login-box1 h2{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: lightgreen;
+    
+}
+
+
+
+.login-box1 form input[typpe ="text"]{
+    width: 100%;
+    padding: 50px;
+    border: 1px #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.login-box1 form input[typpe ="submit"]{
+    background-color: #2ca530;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.login-box form input[typpe ="submit"]:hover{
+    background-color: #3e8e41;
+}
+
+
+.login-box{
+    width: 300px;
+    background-color:white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    height: 400px;
+} 
+.login-box form label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.login-box h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.login-box form input[typpe ="text"]{
+    width: 100%;
+    padding: 50px;
+    border: 1px #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.login-box form input[typpe ="submit"]{
+    background-color: #2ca530;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.login-box form input[typpe ="submit"]:hover{
+    background-color: #3e8e41;
+}
+#sam{
+    height: 200px;
+    width: 90%;
+    background-color: rgb(176, 236, 236);
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+#asha{
+    width: 50%;
+    height: 430px;
+    background-color: aqua;
+    float: left;
+}
+
+#daifat form{
+    margin-left:20px;
+}
+
+#daifat{
+    width: 50%;
+    height: 430px;
+    background-color: darkgoldenrod;
+    float: right;
+}
+#khairiya{
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+}
+
+#khairiya ul li{
+        list-style-type: none;
+        float: left;
+        text-decoration: none;
+        margin-left: 20px;
+    }
+
+li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+
+iframe{
+    margin-left: 5px;
+}
